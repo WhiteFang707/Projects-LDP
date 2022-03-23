@@ -16,6 +16,19 @@ int main(int argc, char *argv[]) {
     string nom_fichier_dechiffre = argv[3];
 
     // TODO Votre programme commence ici
+    ifstream nom_fichier_chiffre;
     
+
+
+
+
+
+
+
+
+
+
+
+
     return 0;
 }
